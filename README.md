@@ -1,5 +1,5 @@
 # 💄 Sistema de Loja de Maquiagem
-[Sistema de loja de maquiagem](https://petal-beauty-pos.lovable.app) completo de gerenciamento para loja de cosméticos desenvolvido com Supabase, oferecendo controle total sobre clientes, produtos, categorias, marcas e vendas.
+[Sistema](https://petal-beauty-pos.lovable.app) completo de gerenciamento para loja de cosméticos desenvolvido com Supabase, oferecendo controle total sobre clientes, produtos, categorias, marcas e vendas.
 
 # ✨ Funcionalidades Principais
 👥 Módulo de Clientes
